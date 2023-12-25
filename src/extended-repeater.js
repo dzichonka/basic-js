@@ -32,7 +32,6 @@ function repeater(str, options) {
 
   return repeatedStr;
 }
-
 module.exports = {
   repeater
 };
